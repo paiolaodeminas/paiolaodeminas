@@ -6,8 +6,8 @@
 
  @font-face {
     font-family: "Texas Tango";
-    src: url("/assets/fonts/texas-tango-webfont.woff2") format("woff2"),
-         url("/assets/fonts/texas-tango-webfont.woff2") format("woff");
+    src: url("assets/fonts/texas-tango-webfont.woff2") format("woff2"),
+         url("assets/fonts/texas-tango-webfont.woff2") format("woff");
 }
 
 body {
@@ -100,7 +100,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #000;
-    background-image: url("/img/tileable_wood_texture.png");
+    background-image: url("img/tileable_wood_texture.png");
     background-repeat: repeat; 
 }
 
